@@ -1,11 +1,11 @@
 <h2 align="left">Hello! I'm <a href="www.linkedin.com/in/zoltankoren" target="_blank" rel="noopener noreferrer">Zoltán Koren<a/a></h2>
+    ![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
+### About me
 
   - 🎓 I'm an Electrical Engineering MSc student at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en)
   - 💻 I'm currently working at [IPCAMP](https://www.ip-camp.com/)
   - 🌱 I’m currently learning JavaScript and Unity
   - 📫 How to reach me: koren.zltn@gmail.com
-  
-
   
 ### Languages and Tools 
 <p>
@@ -22,9 +22,5 @@
 
 </p>
 <br />
-### My GitHub stats
-  
-  ![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=TheKoren&count_private=true)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKoren)]
 -----
