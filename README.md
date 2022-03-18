@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hello! I'm <a href="www.linkedin.com/in/zoltankoren" target="_blank" rel="noopener noreferrer">Zoltán Koren<a/a>
+<h2 align="left">Hello! I'm <a href="www.linkedin.com/in/zoltankoren" target="_blank" rel="noopener noreferrer">Zoltán Koren<a/a></h2>
 
   - 🎓 I'm an Electrical Engineering MSc student at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en)
   - 💻 I'm currently working at [IPCAMP](https://www.ip-camp.com/)
