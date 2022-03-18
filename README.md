@@ -1,5 +1,6 @@
 <h2 align="left">Hello! I'm <a href="www.linkedin.com/in/zoltankoren" target="_blank" rel="noopener noreferrer">Zoltán Koren<a/a></h2>
-    ![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
+    
+![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
 ### About me
 
   - 🎓 I'm an Electrical Engineering MSc student at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en)
@@ -22,5 +23,6 @@
 
 </p>
 <br />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKoren)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKoren)](https://github.com/anuraghazra/github-readme-stats)
+    
 -----
