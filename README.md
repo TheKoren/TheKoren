@@ -26,5 +26,6 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKoren&layout=compact&hide=Gnuplot&theme=tokyonight)](https://github.com/TheKoren)
 
-[![TheKorens wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheKoren&layout=compact)](https://github.com/TheKoren)
+[![TheKorens wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheKoren)](https://github.com/TheKoren)
+
 -----
