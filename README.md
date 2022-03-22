@@ -24,6 +24,6 @@
 </p>
 <br />
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKoren&hide=Gnuplot&hide=CMake&hide=Make&theme=tokyonight)](https://github.com/TheKoren)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKoren&hide=Gnuplot&hide=CMake&theme=tokyonight)](https://github.com/TheKoren)
     
 -----
