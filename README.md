@@ -1,4 +1,4 @@
-<h2 align="left">Hello! I'm <a href="www.linkedin.com/in/zoltankoren" target="_blank" rel="noopener noreferrer">Zoltán Koren<a/a></h2>
+<h2 align="left">Hello! I'm [Zoltán Koren](www.linkedin.com/in/zoltankoren)</h2>
     
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
 ### About me
