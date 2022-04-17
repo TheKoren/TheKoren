@@ -1,4 +1,4 @@
-[Zoltán Koren](https://www.linkedin.com/in/zoltankoren)
+### [Zoltán Koren](https://www.linkedin.com/in/zoltankoren)
     
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
 ### About me
@@ -7,6 +7,12 @@
   - 💻 I'm currently working at [IPCAMP](https://www.ip-camp.com/)
   - 🌱 I’m currently learning JavaScript and Unity
   - 📫 How to reach me: koren.zltn@gmail.com
+
+### Contributed in the following repositorys
+  - [Calculator in Assembly - School Project](https://github.com/Goldan32/assembly-calc)
+     - Assembly
+  - [Implementing a simple game on STK3700 - School Project](https://github.com/Goldan32/bambi_snake)
+     - Embedded C
   
 ### Languages and Tools 
 <p>
