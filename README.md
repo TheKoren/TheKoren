@@ -8,7 +8,7 @@
   - 🌱 I’m currently learning JavaScript and Unity
   - 📫 How to reach me: koren.zltn@gmail.com
 
-### Contributed in the following repositorys
+### Contributed in the following repositories
   - [Calculator in Assembly - School Project](https://github.com/Goldan32/assembly-calc)
      - Assembly
   - [Implementing a simple game on STK3700 - School Project](https://github.com/Goldan32/bambi_snake)
