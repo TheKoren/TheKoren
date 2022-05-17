@@ -1,6 +1,7 @@
 ### [Zoltán Koren](https://www.linkedin.com/in/zoltankoren)
     
-![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=TheKoren)
+
 ### About me
 
   - 🎓 I'm an Electrical Engineering MSc student at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en)
