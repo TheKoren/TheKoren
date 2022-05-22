@@ -33,5 +33,6 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKoren&layout=compact&hide=Gnuplot&theme=tokyonight)](https://github.com/TheKoren)
 
+![TheKoren's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheKoren&show_icons=true&theme=tokyonight)
 
 -----
