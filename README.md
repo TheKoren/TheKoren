@@ -26,6 +26,8 @@
      - Assembly
   - [Implementing a simple game on STK3700 - School Project](https://github.com/Goldan32/bambi_snake)
      - Embedded C
+  - [Implementing a Median Filter using Xilinx Kintex-7 FPGA - School Project](https://github.com/Goldan32/median-filter)
+     - Verilog
   
 -----
 
