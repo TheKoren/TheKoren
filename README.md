@@ -44,3 +44,4 @@
 | <a href="https://github-readme-stats.vercel.app/api?username=TheKoren&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheKoren&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="TheKoren's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKoren&layout=compact&theme=buefy&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKoren&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 -----
+[![ActivityGraph](https://github-readme-activity-graph.vercel.app/graph?username=TheKoren&theme=react-dark)](https://github.com/TheKoren/github-readme-activity-graph)
