@@ -1,6 +1,6 @@
 -----
 <h1 align="center">Hi 👋, I'm Zoltán</h1>
-<h3 align="center">Electrical Engineer & Java Developer</h3><div id="badges">
+<h3 align="center">Electrical Engineer</h3><div id="badges">
   <a href="https://www.linkedin.com/in/zoltankoren">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -10,8 +10,8 @@
 </div>
 
 ## 😎 About me
-  - 🎓 I'm an Electrical Engineering MSc student at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en)
-  - 💻 I'm currently working at [IPCAMP](https://www.ip-camp.com/) as a Java Developer
+  - 🎓 I'm an Electrical Engineering MSc student at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en).
+  - 💻 I'm currently working at [IPCAMP](https://www.ip-camp.com/) as a Software Engineer.
   - 📫 How to reach me: koren.zltn@gmail.com
 
 ## 🛠️Contributed in the following repositories
@@ -42,7 +42,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <h3>Data Visualization</h3>
 <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
-<a href="https://apexcharts.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/5ee5535a3f7e5ba870272261173bf12f9e08a14b0e926291b0a31b751de595e3/68747470733a2f2f617065786368617274732e636f6d2f6d656469612f617065786368617274732d6c6f676f2e706e67" alt="apexchart" width="40" height="40"/> </a>
+<a href="https://apexcharts.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/1c6bf58773397d03c9e8e52acb8541bb8d732a47acbb4bc669824f73ad8112e4/68747470733a2f2f617065786368617274732e636f6d2f6d656469612f617065786368617274732d6c6f676f2e706e67" alt="apexchart" width="40" height="40"/> </a>
 <h3>Framework</h3>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
