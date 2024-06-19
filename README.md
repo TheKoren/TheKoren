@@ -1,6 +1,6 @@
 -----
 <h1 align="center">Hi 👋, I'm Zoltán</h1>
-<h3 align="center">Electrical Engineer</h3><div id="badges">
+<h3 align="center">Software Engineer</h3><div id="badges">
   <a href="https://www.linkedin.com/in/zoltankoren">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -10,7 +10,7 @@
 </div>
 
 ## 😎 About me
-  - 🎓 I'm an Electrical Engineering MSc student at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en).
+  - 🎓 I've recently obtained my Master's degree in Electrical Engineering at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en).
   - 💻 I'm currently working at [IPCAMP](https://www.ip-camp.com/) as a Software Engineer.
   - 📫 How to reach me: koren.zltn@gmail.com
 
